@@ -11,6 +11,13 @@ body {
   visibility: hidden;
 }
 
+.profile-picture {
+  font-family: arial;
+  font-size: 50px;
+  text-align: center;
+  font-color: Blue;
+}
+
 .container {
   height: 100vh;
   margin: 0 auto;
