@@ -7,6 +7,12 @@ body {
   margin: 0;
 }
 
+.abhidha {
+  font-family: Aria;
+  font-size: 50px;
+  font-color: Blue;
+  text-align: center;
+}
 .song {
   visibility: hidden;
 }
